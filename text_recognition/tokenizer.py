@@ -1,11 +1,11 @@
 import re
 
-#Extract Tokens
-def tokenizer(text):
-        tokens = re.findall(r'\\b\\w+\\b', text)
+# This function extracts words, numbers, and hyphenated words
+def tokenize(text):
+    tokens = re.findall(r'\b\w+(?:-\w+)*\b', text)
 
-        return tokens
+    return tokens
 
-#Convert tokens into lowercase
+# Convert all tokens to lowercase
 def normalize(tokens):
-        return[t.lower() for t in tokens]
+    return [t.lower() for t in tokens]

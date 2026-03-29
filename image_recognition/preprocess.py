@@ -5,9 +5,9 @@ def preprocess_image(path):
 
     if img is None:
         raise FileNotFoundError(f"Image not found at path: {path}")
-    
-    gray = cv2.cvtColor(img, cv2.COLOR_GRAY2BGR)
 
-    _, simple_threshold = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY)
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-    return simple_threshold
+    _, simple_thresh = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY)
+
+    return simple_thresh
