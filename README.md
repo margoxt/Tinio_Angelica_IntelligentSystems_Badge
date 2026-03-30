@@ -78,7 +78,38 @@ The system uses a rule-based approach to classify tokens. Each rule is applied i
   - Tokenizer
   - Rules
   - OCR post-processing  
--  Tests executed using `pytest`  
+-  Tests executed using `pytest`
+
+## 📝 Changelog
+
+### v1.2.0 – Final Submission
+- Added confidence-based OCR filtering
+- Improved image preprocessing (grayscale + thresholding)
+- Fixed import errors in OCR module
+- Added full test suite (tokenizer, rules, OCR placeholder)
+- Completed README with explanations and examples
+- Added Complexity Review (theory + measurements)
+
+---
+
+### v1.1.0 – OCR Integration
+- Integrated Tesseract OCR using pytesseract
+- Added image mode (`--image`)
+- Implemented OCR token post-processing
+- Connected OCR output to rule-based classifier
+
+---
+
+### v1.0.0 – Core System
+- Implemented text mode (`--text`)
+- Built tokenizer and normalization functions
+- Added lexicon loading from file
+- Implemented rule-based classification:
+  - Date detection
+  - Number detection
+  - Proper noun detection
+  - Hyphenated word detection
+  - Token length validation
 
 ### Submission Requirements
 - [x] GitHub repository link submitted  
