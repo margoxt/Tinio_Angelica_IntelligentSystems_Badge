@@ -35,7 +35,8 @@ pip install pytesseract pillow opencv-python
 
 ### Submission Requirements
 - [x] GitHub repository link submitted  
-- OneDrive video demo (Teams recording) submitted  
+- OneDrive video demo (Teams recording) submitted: https://hauph-my.sharepoint.com/:v:/g/personal/aztinio_student_hau_edu_ph/IQCR_A4pN6BXQKOvg6qMkPHvAf0Mb3F25YTMf0GVwlRUbPo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AxbdS3
+- https://hauph-my.sharepoint.com/:v:/g/personal/aztinio_student_hau_edu_ph/IQBxofVcUCnkQoouiip6xly8AbPynY5mlqagtJ8uVrCu7Fw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&email=mlsalenga%40hau.edu.ph&e=RwHKKK
 
 ### Documentation
 #### Text
