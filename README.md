@@ -51,7 +51,7 @@ python cli.py --lexicon data/lexicon_en.txt --image data/sample_images/sample3.j
 #### Text:
 ![Text Output](textpart1.png)
 ![Text Output](textpart2.png)
-![Text Output](textpart3.png)
-![Text Output](textpart4.png)
+![Text Output](testpart3.png)
+![Text Output](testpart4.png)
 
 -----------------------------
