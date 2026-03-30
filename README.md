@@ -49,6 +49,9 @@ python cli.py --lexicon data/lexicon_en.txt --image data/sample_images/sample3.j
 ![Image Output](imagetest.png)
 
 #### Text:
-![Text Output](testpart1.png)
+![Text Output](textpart1.png)
+![Text Output](textpart2.png)
+![Text Output](textpart3.png)
+![Text Output](textpart4.png)
 
 -----------------------------
