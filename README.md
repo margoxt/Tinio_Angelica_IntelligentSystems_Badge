@@ -65,7 +65,13 @@ The system uses a rule-based approach to classify tokens. Each rule is applied i
 - [x] Complexity review includes:
   - Big-O analysis (time & space)
   - Empirical runtime measurements  
-- [x] Observations and trade-offs discussed  
+- [x] Observations and trade-offs discussed
+
+### Limitations
+
+- OCR struggles with noisy or stylized text  
+- Lexicon is limited to predefined words  
+- Rules are pattern-based, not context-aware  
 
 ### Testing
 -  Unit tests implemented for:
